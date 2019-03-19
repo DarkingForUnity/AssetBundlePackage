@@ -1,4 +1,4 @@
- # ABpackage
+ # AssetBundlePackage
 
 一，AssetBundle是什么？
 
